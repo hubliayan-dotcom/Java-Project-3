@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Room Booking System",
+  "description": "A comprehensive hotel room booking and front desk property management application with date-range availability search, booking lifecycle management, billing engine, interactive console simulator, test suite runner, and Java OOP project guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

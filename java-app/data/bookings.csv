@@ -1,0 +1,4 @@
+bookingId,roomNumber,roomType,guestName,phone,email,idProof,numberOfGuests,checkInDate,checkOutDate,numberOfNights,roomCharge,taxAmount,totalAmount,status
+BK-1001,201,DOUBLE,John Doe,+1 555-0199,john.doe@example.com,PASSPORT-A9921,2,2026-08-17,2026-08-19,2,6000.00,600.00,6600.00,IN_HOUSE
+BK-1002,301,DELUXE,Sarah Jenkins,+1 555-0144,sarah.j@example.com,DL-88291,2,2026-08-20,2026-08-23,3,13500.00,1350.00,14850.00,RESERVED
+BK-1003,401,SUITE,Marcus Aurelius,+1 555-0188,marcus@rome.org,GOV-1001,3,2026-08-10,2026-08-14,4,24000.00,2400.00,26400.00,COMPLETED
